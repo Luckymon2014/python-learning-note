@@ -9,3 +9,5 @@
         - DataFrame：二维表结构
 
 ## [Matplotlib绘图](https://matplotlib.org/)
+
+## [Scikit-learn](http://scikit-learn.org/stable/)
